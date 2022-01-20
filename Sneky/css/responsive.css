@@ -1,0 +1,443 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  h4{
+    font-size: 40px!important;
+  }
+  h3{
+    font-size: 30px!important;
+  }
+  .btn1{
+    padding: 10px 30px!important;
+    font-size: 12px!important;
+  }
+  .bg-img{
+    padding: 12px 5px 12px 30px!important;
+    font-size: 13px!important;
+    margin-left: 20px!important;
+  }
+  header{
+    padding: 10px 0px;
+  }
+  .banner-left{
+    padding-top: 8%!important;
+  }
+  .banner-content1 {
+    margin-bottom: 30px!important;
+  }
+  .service-menu {
+    padding-top: 40px!important;
+  }
+  .service-menu li h4{
+    font-size: 14px!important;
+    font-weight: 500;
+  }
+  .service-menu li{
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .service-menu li:first-child {
+    padding-left: 0;
+  }
+  .service-menu li:last-child {
+  padding-right: 0;
+  border: none;
+  }
+  .fast{
+    line-height: 23px!important;
+  }
+
+
+
+
+
+  .image-position {
+    position: absolute;
+    bottom: -50px;
+    right: -50px;
+  }
+  .about-content {
+    margin-left: 22%;
+  }
+  .title-content h2 {
+    font-size: 29px;
+  }
+  .title-content h4{
+    font-size: 20px!important;
+  }
+  .about-content P{
+    font-size: 14px;
+    margin-bottom: 0.7rem;
+  }
+  .about{
+    margin: 100px 0;    
+    padding-bottom: 0px;
+  }
+  .banner-icon {
+    top: 34%;
+    left: 15px;
+  }
+  .banner-left {
+    padding-left: 8%;
+  }
+  .item-body {
+    padding: 25px 12px 25px 12px;
+  }
+  .item-body {
+    font-size: 19px;
+  }
+  .item-body p{
+    font-size: 13px;
+  }
+  .item-body h3{
+    font-size: 19px!important;
+    margin-bottom: 3px!important;
+  }
+  .price-tag{
+    margin-top: 8.2px!important;
+    font-size: 16px!important;
+  }
+  .star{
+    margin-bottom: 0!important;
+  }
+
+
+
+
+
+  .price .title-content {
+    margin-bottom: 50px!important;
+  }
+  .offer-content{
+    padding: 40px 20px;    
+    left: -70px;
+  }
+  .offer-content h3 {
+    font-size: 25px!important;
+    margin-bottom: 15px;
+  }
+  .offer-content h2{
+    font-size: 40px;
+    margin-bottom: 15px;
+  }
+  .btn2{
+    padding: 8px 32px;
+  }
+
+
+
+
+
+
+
+  .menu-content{
+    padding: 15px 10px 15px 5px;
+  }
+  .menu-content img {
+    margin-right: 0.7rem!important;
+  }
+  .menu-card h4{
+    font-size: 19px!important;
+  }
+  .menu-card h4::after{
+  width: 22%;
+  }
+  .menu-card .price-tag{
+    margin-top: 0!important;
+    font-size: 16px!important;
+  }
+  .menu-item p {
+    margin-bottom: 0;
+    font-size: 14px!important;
+  }
+
+
+
+
+  .back2 .container .btn1{
+    margin-top: 25px!important;
+  }
+
+
+
+  .chef-title{
+    padding: 10px 5px 5px 5px!important;
+    bottom: 5px!important;
+  }
+  .chef-title h4{
+    margin-bottom: 0!important;
+    font-size: 19px!important;
+  }
+  .chef-title p{
+    font-size: 14px!important;
+  }
+  .over-icon{
+    top: 22%!important;
+  }
+  .form-section{
+    margin-left: 0%!important;
+  }
+  form h3 {
+    margin-bottom: 30px!important;
+  }
+  .form-group input{
+    height: 45px!important;
+  }
+  .form-section{
+    padding: 50px 30px!important;
+  }
+
+
+  .footer-item ul li a{
+    font-size: 10px!important;
+  }
+  .footer-item h4{
+    font-size: 16px!important;
+  }
+  .footer-item p{
+    font-size: 10px!important;
+  }
+  .subscribe{
+    height: 36px!important;
+    padding: 5px 10px 5px 16px!important;
+    font-size: 12px;
+  }
+  .s-btn{
+    padding: 5px 14px!important;
+    font-size: 12px!important;
+  }
+  .footer-icon li a i{
+    height: 30px;
+    width: 30px;
+  }
+  .footer-bottom{
+    align-items: center;
+  }
+  .footer-bottom p{
+    font-size: 12px!important;
+  }
+  .offer{
+    padding: 70px 0px!important;
+  }
+  .menu .title-content {
+    margin-bottom: 50px!important;
+  }
+  .menu{
+    margin: 70px 0px;
+  }
+  .chef .title-content {
+    margin-bottom: 50px!important;
+  }
+  .chef{
+    margin: 70px 0px!important;
+  }
+  .reserve{
+    padding: 70px 70px!important;
+  }
+  .price-section .item-body h3 {
+    font-size: 17px!important;
+    margin-bottom: 3px!important;
+  }
+  footer{
+    padding: 70px 0px!important;
+  }
+  .price {
+    margin-bottom: 70px!important;
+  }
+  header .container{
+  max-width: 868px;
+  }
+
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 500px) and (max-width: 767px) {
+  
+  header{
+    padding: 20px 0px;
+  }
+  .image-position {
+    position: absolute;
+    bottom: -60px;
+    right: -60px;
+  }
+  br{
+    display: none;
+  }
+  .banner-content1{
+    font-size: 30px!important;
+    margin-bottom: 28px!important;
+  }
+  .banner-icon{
+    top: 52%!important;
+    left: 42px;
+  }
+  .banner-icon li{
+    display: inline-block;
+    margin-bottom: 0!important;
+    margin-right: 40px;
+  }
+  .service-menu{
+    position: absolute;
+    bottom: 115px;
+    width: 86%;
+    text-align: center;
+  }
+  .service-menu li:first-child {
+    float: none;
+    padding-right: 20px!important;
+  }
+  .service-menu li:second-child {
+    padding-right: 20px!important;
+    padding-left: 20px!important;
+  }
+  .service-menu li:last-child {
+    padding-left: 20px!important;
+  }
+  .banner-icon li a i{
+    height: 40px;
+    width: 40px;
+    background-color: green;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    font-size: 18px;
+  }
+  .banner-left{
+    padding-top: 7%!important;
+  }
+  .bg-img{
+    display: block;
+    margin-left: 1px!important;
+    padding: 12px 5px 12px 40px!important;
+    margin-top: 12px;
+  }
+  .image-position{
+    bottom: -127px;
+    right: -40px;
+    opacity: 0.8;
+  }
+
+  .about-title{
+    padding-right: 0!important;
+  }
+  .title-content .about-title::after {
+    right: 0;
+    left: 0;
+    bottom: 0%;
+    top: 30px!important;
+  }
+ /* .about-left-content{
+    display: flex;
+    align-items: center;
+  }*/
+  .about-content p {
+    font-size: 12px;
+  }
+  .about{
+    padding-top: 60px;
+    padding-bottom: 0px!important;
+  }
+
+
+
+  .price .title-content {
+    margin-bottom: 50px!important;
+  }
+  .item-body {
+    padding: 30px 12px;
+  }
+  .item-body h3{
+    font-size: 21px!important;
+  }
+  .item-body p{
+    font-size: 14px!important;
+  }
+  .mid{
+    margin-top: 28px!important;
+  }
+
+  h3{
+    font-size: 25px!important;
+  }
+  h2{
+    font-size: 20px!important;
+  }
+  .btn1{
+    font-size: 13px;
+    padding: 9px 32px;
+  }
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  
+}
